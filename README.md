@@ -35,7 +35,8 @@
 | [Divya](https://github.com/d-coder111) | Python,Java |
 | [phuocantd](https://github.com/phuocantd) | Javascript |
 | [Ebenezer R.](https://github.com/Itsfoss0)| Python, C, Dart, Bash|
-| [Mubashir Iqbal](https://github.com/Mubshr07) | AI Researcher, System Engineer, Softwares and Websites Developer,
+| [Mubashir Iqbal](https://github.com/Mubshr07) | AI Researcher, System Engineer, Softwares and Websites Developer |
+| [Joebert Cerezo](https://github.com/joebertcerezo) | Nuxt, Scala, Play Framework, Node |
 
 
 ## Contributors ✨
