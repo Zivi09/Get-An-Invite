@@ -2,7 +2,7 @@
 
 # Want to join our organisation? 🏢
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
@@ -60,8 +60,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/max-ray001"><img src="https://avatars.githubusercontent.com/u/142807911?v=4?s=100" width="100px;" alt="⭐Max-Ray⭐"/><br /><sub><b>⭐Max-Ray⭐</b></sub></a><br /><a href="#content-max-ray001" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://mubashiriqbal07.wordpress.com/"><img src="https://avatars.githubusercontent.com/u/34352213?v=4?s=100" width="100px;" alt="Mubashir Iqbal"/><br /><sub><b>Mubashir Iqbal</b></sub></a><br /><a href="#content-Mubshr07" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://mutanplex.com"><img src="https://avatars.githubusercontent.com/u/55329698?v=4?s=100" width="100px;" alt="Barış AL"/><br /><sub><b>Barış AL</b></sub></a><br /><a href="#content-MutanPlex" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/conka8"><img src="https://avatars.githubusercontent.com/u/153589883?v=4?s=100" width="100px;" alt="Conka@rust"/><br /><sub><b>Conka@rust</b></sub></a><br /><a href="#content-conka8" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/joebertcerezo"><img src="https://avatars.githubusercontent.com/u/104471296?v=4?s=100" width="100px;" alt="Joebert Cerezo"/><br /><sub><b>Joebert Cerezo</b></sub></a><br /><a href="#content-joebertcerezo" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
